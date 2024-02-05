@@ -1,7 +1,7 @@
 J S U G G M A P S :dollar: :mountain: :skier: :punch:
 ========
 
-<img src="/jsugg_0.jpg" width='100'>
+<img src="jsugg_0.jpg" width='100'>
 
 #### [Associate Professor of Geography](https://geo.appstate.edu/faculty-staff/dr-johnathan-sugg), Department of Geography & Planning, Appalachian State University
 
