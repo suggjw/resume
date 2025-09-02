@@ -12,4 +12,5 @@ Associate Professor, Appalachian State University, *2023 - present*
 Assistant Professor, Appalachian State University, *2017-2023*
 Graduate Research Associate, Southeastern Regional Climate Center *2013-2017*
 
-<img src="/img/yosef.png" width="100"/>
+
+<img src="img/yosef.png" width="100"/>
